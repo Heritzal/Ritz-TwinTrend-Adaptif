@@ -114,8 +114,3 @@ Signals are calculated on closed bars and do not repaint. The live bar is shown 
 Trading leveraged products carries a high level of risk and you can lose more than your deposit. The signals, zones and levels shown by this indicator are information for your own analysis and not investment advice. Past behavior of the indicator does not guarantee future results. Test on a demo account first and use proper risk management.
 
 ---
-- Bekerja di semua simbol dan timeframe, termasuk MN dengan history pendek (minimal 50 bar).
-
-Mesin trend dan fill berbasis AlgoAlpha dan port MQL5 oleh Trung (MPL-2.0); sumbernya dipublikasikan terpisah.
-
-Indikator ini alat analisis dan tidak membuka atau menutup posisi. Trading berisiko tinggi dan bukan nasihat investasi.
